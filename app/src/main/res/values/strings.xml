@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="et_email">Correo electrónico</string>
+    <string name="et_password">Contraseña</string>
+    <string name="btn_acceso">Acceder</string>
+
+
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn0">0</string>
+
+    <string name="btnsumar">+</string>
+    <string name="btnrestar">-</string>
+    <string name="btnmultiplicar">*</string>
+    <string name="btndividir">/</string>
+    <string name="btnresultado">=</string>
+
+    <string name="btnrestaurar">Restaurar valores</string>
+    <string name="textview">0</string>
+    <string name="btn_frame">Ocultar</string>
+
+</resources>
